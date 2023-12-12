@@ -23,8 +23,9 @@ class _MyNavigationBottomBarState extends State<MyNavigationBottomBar> {
           label:""
         ),
        const BottomNavigationBarItem(
-        icon: Icon(Icons.disc_full_sharp, size:35, color:Colors.white),
-        label: ""
+        icon: Icon(Icons.library_music_sharp, size:35, color:Colors.white),
+        label: "",
+        
         )
       ]
       );
